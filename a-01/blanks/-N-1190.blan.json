@@ -1,62 +1,72 @@
 {
     "Ar36": {
-        "error": 4.5065416952251627e-07,
+        "error": 0.0,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Average",
         "references": [
             {
-                "exclude": false,
-                "record_id": "ba-01-N-556"
+                "exclude": "ok",
+                "record_id": "ba-01-N-556",
+                "uuid": "a71e6f1f-99b3-41ab-ab4c-fe2dcc6fc780"
             }
         ],
+        "reviewed": true,
         "value": 7.95495192839011e-06
     },
     "Ar37": {
-        "error": 1.5914045865436105e-06,
+        "error": 0.0,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Average",
         "references": [
             {
-                "exclude": false,
-                "record_id": "ba-01-N-556"
+                "exclude": "ok",
+                "record_id": "ba-01-N-556",
+                "uuid": "a71e6f1f-99b3-41ab-ab4c-fe2dcc6fc780"
             }
         ],
+        "reviewed": true,
         "value": 4.762728418798944e-06
     },
     "Ar38": {
-        "error": 9.275251290364873e-07,
+        "error": 0.0,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Average",
         "references": [
             {
-                "exclude": false,
-                "record_id": "ba-01-N-556"
+                "exclude": "ok",
+                "record_id": "ba-01-N-556",
+                "uuid": "a71e6f1f-99b3-41ab-ab4c-fe2dcc6fc780"
             }
         ],
+        "reviewed": true,
         "value": 3.135080710291828e-06
     },
     "Ar39": {
-        "error": 5.150748869154254e-07,
+        "error": 0.0,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Average",
         "references": [
             {
-                "exclude": false,
-                "record_id": "ba-01-N-556"
+                "exclude": "ok",
+                "record_id": "ba-01-N-556",
+                "uuid": "a71e6f1f-99b3-41ab-ab4c-fe2dcc6fc780"
             }
         ],
+        "reviewed": true,
         "value": 2.1930986759946574e-06
     },
     "Ar40": {
-        "error": 3.4337837369739108e-06,
+        "error": 0.0,
         "error_type": "",
-        "fit": "previous",
+        "fit": "Average",
         "references": [
             {
-                "exclude": false,
-                "record_id": "ba-01-N-556"
+                "exclude": "ok",
+                "record_id": "ba-01-N-556",
+                "uuid": "a71e6f1f-99b3-41ab-ab4c-fe2dcc6fc780"
             }
         ],
+        "reviewed": true,
         "value": 0.001387636697409225
     }
 }
