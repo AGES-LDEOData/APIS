@@ -1,0 +1,14 @@
+{
+    "H2": {
+        "center_dac": 38.166216942590474,
+        "center_signal": 0.01858435573130346,
+        "high_dac": 38.20289028928386,
+        "high_signal": 0.00348972920142741,
+        "low_dac": 38.12954359589709,
+        "low_signal": 0.0035846171353428346,
+        "points": "QhhkLjagGadCGGlMNuaBK0IYbms3lUkQQhhzijiCUuRCGHioOZDmuEIYfcc6dNp6QhiC5jsivodCGIgFO9Z14UIYjSM8RQxpQhiSQjyEcaRCGJdhPJW17UIYnIA8l+LIQhihnjyYPW1CGKa9PJfp40IYq9w8mA1vQhiw+jyX6SNCGLYZPJb0oUIYuzg8lJfYQhjAVzyNo5FCGMV1PGsPvkIYypQ8EYKxQhjPsztoC2FCGNTROhuOY0IY2fA4armAQhjfD7YMl71CGOQuNapK+EIY6Uw3d2bwQhjua7cP7SJCGPOKtX+B+UIY+Kg2iiI0Qhj9xzdRpvQ="
+    },
+    "fmt": ">ff",
+    "reference_detector": "H2",
+    "reference_isotope": "Ar40"
+}
