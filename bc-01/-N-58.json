@@ -1,0 +1,79 @@
+{
+    "acquisition_software": "pychron py3/18.2",
+    "aliquot": 58,
+    "analysis_type": "blank_cocktail",
+    "analyst_name": "root",
+    "collection_version": "1.0:1.0",
+    "comment": "",
+    "commit": "6eb38e95880c783f096adc86d8d47945284b7c26",
+    "conditionals": null,
+    "data_reduction_software": "pychron py3/18.2",
+    "detectors": {
+        "L2": {
+            "deflection": null,
+            "gain": null
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [],
+        "lab_pneumatics": [],
+        "lab_temperatures": []
+    },
+    "experiment_queue_name": "APIS_Air_ICM",
+    "extraction": "ngx_APIS_Air_pt2.py",
+    "identifier": "bc-01-N",
+    "increment": null,
+    "instrument_name": "",
+    "intensity_scalar": 0.0,
+    "irradiation": "NoIrradiation",
+    "irradiation_level": "A",
+    "irradiation_position": 20,
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2",
+            "name": "Ar36",
+            "serial_id": "00000"
+        },
+        "Ar37": {
+            "detector": "L2",
+            "name": "Ar37",
+            "serial_id": "00000"
+        },
+        "Ar38": {
+            "detector": "L2",
+            "name": "Ar38",
+            "serial_id": "00000"
+        },
+        "Ar39": {
+            "detector": "L2",
+            "name": "Ar39",
+            "serial_id": "00000"
+        },
+        "Ar40": {
+            "detector": "L2",
+            "name": "Ar40",
+            "serial_id": "00000"
+        }
+    },
+    "laboratory": "",
+    "mass_spectrometer": "Ngx",
+    "material": "Blank",
+    "measurement": "ngx_ar_icm_all_hopping.py",
+    "post_equilibration": "ngx_pump_unknown.py",
+    "post_measurement": "ngx_pump_ms.py",
+    "principal_investigator": "AGES-LDEO",
+    "project": "REFERENCES",
+    "queue_conditionals_name": "",
+    "repository_identifier": "APIS",
+    "sample": "blank APIS-Air",
+    "source": {
+        "emission": 1668.7,
+        "trap": 199.96614
+    },
+    "spec_sha": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "timestamp": "2018-08-29T11:22:31.142380",
+    "tripped_conditional": null,
+    "username": "root",
+    "uuid": "36f71dde-fa48-4177-a208-fd4a63f4116a",
+    "whiff_result": null
+}
